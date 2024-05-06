@@ -1,0 +1,21 @@
+- name: Leela kumari
+  dob: 1992-06-13
+  addresses:
+  - addressline-1: D:no 4-200
+    addressline-2: koppuravuru
+    city: guntur
+  - addressline-1: 3304
+    addressline-2: Summer island Ct
+    city: valrico
+  gender: female
+- name: sai
+  dob: 2020-06-01
+  addresses:
+  - addressline-1: d-203
+    addressline-2: AAnanda nilayam
+    city: Tadikonda
+  - addressline-1: 3304
+    addressline-2: Summer island Ct
+    city: valrico
+  gender: female
+  

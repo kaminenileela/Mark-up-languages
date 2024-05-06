@@ -1,0 +1,34 @@
+<Students>
+	<Student>
+		<Name>Leela kumari</Name>
+		<DOB>1992-06-13</DOB>
+		<Addresses>
+			<PermAddress>
+				<AddressLine1>D:no 4-200</AddressLine1>
+				<AddressLine2>koppuravuru</AddressLine2>
+				<city>guntur</city>
+			</PermAddress>
+			<CurrentAddress>
+				<AddressLine1>3304</AddressLine1>
+				<AddressLine2>Summer island Ct</AddressLine2>
+				<city>valrico</city>
+			</CurrentAddress>		
+		</Addresses>
+	</Student>
+	<Student>
+		<Name>Sai</Name>
+		<DOB>2020-06-01</DOB>
+		<Addresses>
+			<PermAddress>
+				<AddressLine1>D-203</AddressLine1>
+				<AddressLine2>AAnanda nilayam</AddressLine2>
+				<city>Tadikonda</city>
+			</PermAddress>
+			<CurrentAddress>
+				<AddressLine1>3304</AddressLine1>
+				<AddressLine2>Summer island Ct</AddressLine2>
+				<Street>Valrico</Street>
+			</CurrentAddress>		
+		</Addresses>
+	</Student>
+</Students>

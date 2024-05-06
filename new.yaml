@@ -1,0 +1,11 @@
+name: Leela kumari
+dob: 1992-06-13
+addresses:
+- addressline-1: D.no:4-200
+  addressline-2: koppuravuru
+  city: guntur
+  
+- addressline-1: 3304
+  addressline-2: summer island ct
+  city: valrico
+gender: female
