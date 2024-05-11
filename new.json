@@ -1,21 +1,24 @@
-{//JSON -Java Script Object Notation
+{
+	"//": "JSON -Java Script Object Notation"
+}
 
+ {
+ 	"Username": "Leela kumari",
+	"Password": "admin123",
+ 	"DoorNo": 123
+ }
 
-// {
-// 	"Username": "Leela kumari",
-// 	"Password": "admin123",
-// 	"DoorNo": 123
-// }
+{
+ 	"name": "Leela kumari",
+	"dob": "1992-06-13",
+	"address": "D:no 4-200, koppuravuru, guntur"
+}
 
-
-// //{
-// 	"name": "Leela kumari",
-// 	"dob": "1992-06-13",
-// 	"address": "D:no 4-200, koppuravuru, guntur"
-// //}
-
-//[] --> denotes list
-//{} --> map/dictionary
+{"//":[
+	   
+	   {"[] --> denotes list"},
+       {"{} --> map/dictionary"}
+]
 }
 
 {
