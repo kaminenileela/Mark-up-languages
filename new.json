@@ -1,4 +1,4 @@
-//JSON -Java Script Object Notation
+{//JSON -Java Script Object Notation
 
 
 // {
@@ -16,6 +16,7 @@
 
 //[] --> denotes list
 //{} --> map/dictionary
+}
 
 {
 	"name": "Leela kumari",
