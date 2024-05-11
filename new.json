@@ -1,4 +1,4 @@
-#JSON -Java Script Object Notation
+//JSON -Java Script Object Notation
 
 
 {
@@ -14,8 +14,8 @@
 	"address": "D:no 4-200, koppuravuru, guntur"
 }
 
-[] --> denotes list
-{} --> map/dictionary
+//[] --> denotes list
+//{} --> map/dictionary
 
 {
 	"name": "Leela kumari",
